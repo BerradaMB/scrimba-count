@@ -1,0 +1,81 @@
+body{
+    margin:20px auto; 
+    width: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+#card {
+    
+    width: 575px;
+    height: 385px;
+    background-color: #1B244A;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+
+    
+}
+.titel{
+    width: 149px;
+    height: 36px;
+    font-size: 40px;
+    color:#EEEEEE;
+}
+.container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.number{
+   
+    
+    width: 155px;
+    height: 120px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: #080001;
+}
+.num{
+    width: 117px;
+    height: 120px;
+    font-family: "Cursed Timer ULiL", sans-serif;
+    font-size: 90px;
+    color:#F94F6D;
+    margin:  auto;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.btn{
+    margin-top: 20px;
+    
+    width: 155px;
+    height: 47px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.btn-num{
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 2px solid #9AABD8;
+    font-family: "Cursed Timer ULiL", sans-serif;
+     font-size: 18px;
+     color: #9AABD8;
+     background-color: #1B244A;
+}
