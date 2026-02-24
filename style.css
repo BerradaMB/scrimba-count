@@ -32,8 +32,6 @@ body{
     align-items: center;
 }
 .number{
-   
-    
     width: 155px;
     height: 120px;
     border-radius: 5px;
@@ -52,11 +50,9 @@ body{
     margin:  auto;
     text-align: center;
     padding-top: 20px;
-    
 }
 .btn{
     margin-top: 20px;
-    
     width: 155px;
     height: 47px;
     border-radius: 5px;
@@ -75,7 +71,7 @@ body{
     -o-border-radius: 5px;
     border: 2px solid #9AABD8;
     font-family: "Cursed Timer ULiL", sans-serif;
-     font-size: 18px;
-     color: #9AABD8;
-     background-color: #1B244A;
+    font-size: 18px;
+    color: #9AABD8;
+    background-color: #1B244A;
 }
