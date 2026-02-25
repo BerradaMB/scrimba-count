@@ -75,3 +75,8 @@ body{
     color: #9AABD8;
     background-color: #1B244A;
 }
+.btn-num:hover{
+    background-color: #9AABD8;
+    color: #1B244A;
+    cursor: pointer;
+}
